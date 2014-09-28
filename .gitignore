@@ -1,0 +1,12 @@
+# Eclipse + PDT specific
+/.settings/
+/.buildpath
+/.project
+
+# PhpStorm
+.idea/
+
+# OSX specific
+**.DS_Store
+
+# Project specific
